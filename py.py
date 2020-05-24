@@ -1,8 +1,2 @@
 print ("hello world")
-#fsgdjjdmqmlqs
-#fsgdjjdmqmlqs
-#fsgdjjdmqmlqs
-#fsgdjjdmqmlqs
-#fsgdjjdmqmlqs
-#fsgdjjdmqmlqs
-#fsgdjjdmqmlqs
+# this is how to print a string on python 
