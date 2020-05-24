@@ -1,3 +1,4 @@
+# this source code for creating a class and used it in python
 class student : 
   def __init__(self, name) : 
      self.name = name 
