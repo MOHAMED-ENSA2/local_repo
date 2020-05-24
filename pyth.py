@@ -3,4 +3,4 @@ print("hello world!")
 print('-' * 30)
 # print a variable 
 a  = 3 
-print(f"a  =  {a}")
+print("a = %s" %a)
